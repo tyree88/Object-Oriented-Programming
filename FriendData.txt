@@ -1,0 +1,47 @@
+Person Rachel
+Person Monica
+List Monica
+Friend Rachel Monica
+Friend Monica Rachel
+List Monica
+List Rachel
+Friend Rachel Ross
+Person Ross
+Friend Rachel Ross
+Person Joey
+Person Joey
+Friend Joey Joey
+Unfriend Joey Joey
+Unfriend Joey Rachel
+Query Joey Rachel
+Friend Joey Rachel
+Query Joey Rachel
+Unfriend Joey Joey
+Query Rachel Joey
+List Rachel
+Unfriend Rachel Joey
+Query Joey Rachel
+List Rachel
+Person Chandler
+Friend Chandler Monica
+Friend Chandler Rachel
+Friend Ross Chandler
+Query Chandler Ross
+Query Ross Chandler
+Unfriend Rachel Chandler
+Query Rachel Chandler
+Friend Phoebe Rachel
+Query Phoebe Rachel
+Query Phoebe Phoebe
+Unfriend Phoebe Rachel
+Person Phoebe
+Friend Phoebe Rachel
+Query Phoebe Rachel
+Unfriend Phoebe Rachel
+List Rachel
+List Monica
+List Chandler
+List Ross
+List Joey
+List Phoebe
+Exit
